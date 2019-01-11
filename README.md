@@ -1,5 +1,7 @@
 # Genetically Evolved Neural Network
 
+![Results from approximating an arbitrary 1D function](https://github.com/sam1902/GeneEvolvedNeuralNet/raw/master/Result.png)
+
 ## What is this program ? Why is it there ?
 This program is a small project designed to get used to DEAP, a genetic algorithm Python framework that greatly eases the developping process by providing a structure to populations, individuals and genetic operators handling.
 
